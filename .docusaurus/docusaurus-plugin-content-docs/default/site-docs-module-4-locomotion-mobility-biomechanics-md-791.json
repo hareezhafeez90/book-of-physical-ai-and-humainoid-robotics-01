@@ -1,0 +1,24 @@
+{
+  "id": "module-4-locomotion-mobility/biomechanics",
+  "title": "Biomechanics of Humanoid Locomotion",
+  "description": "Introduction: Understanding Human Movement",
+  "source": "@site/docs/module-4-locomotion-mobility/biomechanics.md",
+  "sourceDirName": "module-4-locomotion-mobility",
+  "slug": "/module-4-locomotion-mobility/biomechanics",
+  "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/biomechanics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-4-locomotion-mobility/biomechanics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Module 4: Locomotion and Mobility",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/"
+  },
+  "next": {
+    "title": "Dynamic Walking and Balance Control",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/dynamic-walking"
+  }
+}

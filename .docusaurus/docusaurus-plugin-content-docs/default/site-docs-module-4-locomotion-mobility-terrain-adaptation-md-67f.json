@@ -1,0 +1,24 @@
+{
+  "id": "module-4-locomotion-mobility/terrain-adaptation",
+  "title": "Terrain Adaptation and Footstep Planning",
+  "description": "Introduction: Navigating Complex Environments",
+  "source": "@site/docs/module-4-locomotion-mobility/terrain-adaptation.md",
+  "sourceDirName": "module-4-locomotion-mobility",
+  "slug": "/module-4-locomotion-mobility/terrain-adaptation",
+  "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/terrain-adaptation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-4-locomotion-mobility/terrain-adaptation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Gait Generation and Pattern Formation",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/gait-generation"
+  },
+  "next": {
+    "title": "Stair Climbing and Complex Terrain Navigation",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/complex-terrain"
+  }
+}

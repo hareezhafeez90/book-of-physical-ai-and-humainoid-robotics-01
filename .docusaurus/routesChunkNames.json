@@ -1,0 +1,154 @@
+{
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs-a63": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "542bf29f"
+    }
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs-ff6": {
+    "__comp": "a7bd4aaa",
+    "version": "935f2afb"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs-f9f": {
+    "__comp": "a94703ab"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/-341": {
+    "__comp": "17896441",
+    "content": "c377a04b"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/appendix-resources-44d": {
+    "__comp": "17896441",
+    "content": "dec72dab"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/intro-7eb": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/-5bf": {
+    "__comp": "17896441",
+    "content": "4dd5b0c3"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/nodes-topics-b78": {
+    "__comp": "17896441",
+    "content": "babd2df6"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/practical-examples-e40": {
+    "__comp": "17896441",
+    "content": "d72a3811"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/rclpy-bridge-2bc": {
+    "__comp": "17896441",
+    "content": "f3d1cb24"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/ros2-architecture-93f": {
+    "__comp": "17896441",
+    "content": "b6a55f62"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/services-actions-c08": {
+    "__comp": "17896441",
+    "content": "2c1a0f4b"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/urdf-structure-e3a": {
+    "__comp": "17896441",
+    "content": "7b2cf737"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/-da7": {
+    "__comp": "17896441",
+    "content": "7647b2d2"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/balance-stability-833": {
+    "__comp": "17896441",
+    "content": "4bc00d8a"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/dynamics-control-a5a": {
+    "__comp": "17896441",
+    "content": "4b2ee11f"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/kinematics-503": {
+    "__comp": "17896441",
+    "content": "e1b5a2a1"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/motor-control-597": {
+    "__comp": "17896441",
+    "content": "45761098"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/physical-ai-foundations-578": {
+    "__comp": "17896441",
+    "content": "554bb32c"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/practical-examples-4c8": {
+    "__comp": "17896441",
+    "content": "cd0e8119"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/-076": {
+    "__comp": "17896441",
+    "content": "0ddf7bda"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/computer-vision-98c": {
+    "__comp": "17896441",
+    "content": "ebd835fd"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/environmental-perception-3f7": {
+    "__comp": "17896441",
+    "content": "d010a975"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/inertial-sensing-662": {
+    "__comp": "17896441",
+    "content": "84c2f71c"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/practical-examples-38d": {
+    "__comp": "17896441",
+    "content": "b638f892"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/sensor-fusion-a73": {
+    "__comp": "17896441",
+    "content": "386d1fce"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/sensory-modalities-21e": {
+    "__comp": "17896441",
+    "content": "0ff3fc29"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/tactile-sensing-1ea": {
+    "__comp": "17896441",
+    "content": "101c0297"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/-d47": {
+    "__comp": "17896441",
+    "content": "f9d52da7"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/biomechanics-267": {
+    "__comp": "17896441",
+    "content": "7910cc3e"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/complex-terrain-349": {
+    "__comp": "17896441",
+    "content": "53174ba6"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/dynamic-walking-d75": {
+    "__comp": "17896441",
+    "content": "d1b38973"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/energy-efficiency-db1": {
+    "__comp": "17896441",
+    "content": "fcff7472"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/gait-generation-e6c": {
+    "__comp": "17896441",
+    "content": "06071992"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/terrain-adaptation-25a": {
+    "__comp": "17896441",
+    "content": "67fce18c"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/docs/setup-guide-f01": {
+    "__comp": "17896441",
+    "content": "a1ad2b8b"
+  },
+  "/book-of-physical-ai-and-humainoid-robotics-01/-81e": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "a2fa4650"
+    },
+    "config": "5e9f5e1a"
+  }
+}

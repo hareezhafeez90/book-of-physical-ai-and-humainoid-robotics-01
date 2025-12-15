@@ -1,0 +1,24 @@
+{
+  "id": "module-3-perception-sensing/inertial-sensing",
+  "title": "Inertial and Proprioceptive Sensing",
+  "description": "Introduction: Understanding Self-Motion and Internal State",
+  "source": "@site/docs/module-3-perception-sensing/inertial-sensing.md",
+  "sourceDirName": "module-3-perception-sensing",
+  "slug": "/module-3-perception-sensing/inertial-sensing",
+  "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/inertial-sensing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-3-perception-sensing/inertial-sensing.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Tactile Sensing and Haptic Feedback",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/tactile-sensing"
+  },
+  "next": {
+    "title": "Sensor Fusion and State Estimation",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/sensor-fusion"
+  }
+}

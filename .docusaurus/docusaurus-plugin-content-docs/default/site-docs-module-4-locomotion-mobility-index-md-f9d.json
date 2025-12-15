@@ -1,0 +1,24 @@
+{
+  "id": "module-4-locomotion-mobility/index",
+  "title": "Module 4: Locomotion and Mobility",
+  "description": "Introduction: The Art of Humanoid Movement",
+  "source": "@site/docs/module-4-locomotion-mobility/index.md",
+  "sourceDirName": "module-4-locomotion-mobility",
+  "slug": "/module-4-locomotion-mobility/",
+  "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-4-locomotion-mobility/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Practical Examples and Exercises: Environmental Perception Implementation",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/practical-examples"
+  },
+  "next": {
+    "title": "Biomechanics of Humanoid Locomotion",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/biomechanics"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "module-3-perception-sensing/sensory-modalities",
+  "title": "Sensory Modalities in Humanoid Robotics",
+  "description": "Introduction: The Need for Multiple Senses",
+  "source": "@site/docs/module-3-perception-sensing/sensory-modalities.md",
+  "sourceDirName": "module-3-perception-sensing",
+  "slug": "/module-3-perception-sensing/sensory-modalities",
+  "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/sensory-modalities",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-3-perception-sensing/sensory-modalities.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Module 3: Perception and Sensing Systems",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/"
+  },
+  "next": {
+    "title": "Computer Vision for Humanoid Robots",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/computer-vision"
+  }
+}

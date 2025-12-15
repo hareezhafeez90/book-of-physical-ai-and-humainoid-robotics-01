@@ -1,0 +1,24 @@
+{
+  "id": "module-4-locomotion-mobility/complex-terrain",
+  "title": "Stair Climbing and Complex Terrain Navigation",
+  "description": "Introduction: Beyond Flat Ground Locomotion",
+  "source": "@site/docs/module-4-locomotion-mobility/complex-terrain.md",
+  "sourceDirName": "module-4-locomotion-mobility",
+  "slug": "/module-4-locomotion-mobility/complex-terrain",
+  "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/complex-terrain",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-4-locomotion-mobility/complex-terrain.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Terrain Adaptation and Footstep Planning",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/terrain-adaptation"
+  },
+  "next": {
+    "title": "Energy Efficiency in Humanoid Locomotion",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/energy-efficiency"
+  }
+}

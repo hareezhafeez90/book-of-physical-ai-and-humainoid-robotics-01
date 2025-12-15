@@ -1,0 +1,17 @@
+{
+  "id": "index",
+  "title": "Physical AI & Humanoid Robotics Textbook",
+  "description": "Welcome to the Physical AI & Humanoid Robotics textbook, an open-source educational resource designed to provide comprehensive coverage of physical AI systems and humanoid robotics.",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Physical AI & Humanoid Robotics Textbook"
+  }
+}

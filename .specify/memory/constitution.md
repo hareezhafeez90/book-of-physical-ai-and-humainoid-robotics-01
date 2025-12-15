@@ -1,55 +1,65 @@
-# [PROJECT_NAME] Constitution
-<!-- Example: Spec Constitution, TaskFlow Constitution, etc. -->
+<!--
+Sync Impact Report:
+- Version change: 1.0.0 → 1.1.0
+- Modified principles:
+  - PRINCIPLE_1_NAME → P1: Instructional Clarity
+  - PRINCIPLE_2_NAME → P2: Practical Relevance
+  - PRINCIPLE_3_NAME → P3: Technical Accuracy
+  - PRINCIPLE_4_NAME → P4: Open-Source Compliance
+- Added sections: Content Standards & Constraints, Development Workflow
+- Removed sections: None
+- Templates requiring updates:
+  - .specify/templates/plan-template.md ✅ updated
+  - .specify/templates/spec-template.md ✅ updated
+  - .specify/templates/tasks-template.md ✅ updated
+- Follow-up TODOs: None
+-->
+
+# Physical AI & Humanoid Robotics Textbook Constitution
 
 ## Core Principles
 
-### [PRINCIPLE_1_NAME]
-<!-- Example: I. Library-First -->
-[PRINCIPLE_1_DESCRIPTION]
-<!-- Example: Every feature starts as a standalone library; Libraries must be self-contained, independently testable, documented; Clear purpose required - no organizational-only libraries -->
+### P1: Instructional Clarity
+Content must be clear, well-structured, and designed for effective teaching and learning. All chapters, sections, and subsections must follow a logical progression that builds understanding from foundational concepts to advanced topics. Visual aids, examples, and exercises must be strategically placed to reinforce learning objectives.
+<!-- Rationale: Ensures the textbook effectively serves its primary purpose as an educational resource for students -->
 
-### [PRINCIPLE_2_NAME]
-<!-- Example: II. CLI Interface -->
-[PRINCIPLE_2_DESCRIPTION]
-<!-- Example: Every library exposes functionality via CLI; Text in/out protocol: stdin/args → stdout, errors → stderr; Support JSON + human-readable formats -->
+### P2: Practical Relevance
+Emphasize real-world applications, code examples (Python/ROS preferred), and hardware case studies. Every theoretical concept must be accompanied by practical implementations, code examples, or real-world case studies that demonstrate how the concept applies in actual physical AI and humanoid robotics systems.
+<!-- Rationale: Students need to understand not just the theory but how concepts translate to real implementations -->
 
-### [PRINCIPLE_3_NAME]
-<!-- Example: III. Test-First (NON-NEGOTIABLE) -->
-[PRINCIPLE_3_DESCRIPTION]
-<!-- Example: TDD mandatory: Tests written → User approved → Tests fail → Then implement; Red-Green-Refactor cycle strictly enforced -->
+### P3: Technical Accuracy
+All formulas, concepts, and specifications must be rigorously correct and current. All technical content must be verified against peer-reviewed articles, industry standards, or primary documentation. Mathematical derivations, algorithm implementations, and hardware specifications must be precise and error-free.
+<!-- Rationale: As an academic textbook, technical accuracy is fundamental to credibility and educational value -->
 
-### [PRINCIPLE_4_NAME]
-<!-- Example: IV. Integration Testing -->
-[PRINCIPLE_4_DESCRIPTION]
-<!-- Example: Focus areas requiring integration tests: New library contract tests, Contract changes, Inter-service communication, Shared schemas -->
+### P4: Open-Source Compliance
+All text, code, and diagrams must be suitable for open-source distribution (e.g., CC BY-NC-SA). All code examples must be license-compatible for open-source distribution, and all third-party content must have appropriate attribution and permissions for inclusion in an open-source textbook.
+<!-- Rationale: Enables collaborative development and ensures legal compliance with open-source distribution -->
 
-### [PRINCIPLE_5_NAME]
-<!-- Example: V. Observability, VI. Versioning & Breaking Changes, VII. Simplicity -->
-[PRINCIPLE_5_DESCRIPTION]
-<!-- Example: Text I/O ensures debuggability; Structured logging required; Or: MAJOR.MINOR.BUILD format; Or: Start simple, YAGNI principles -->
+### P5: Docusaurus-First Architecture
+All content must be structured and formatted for Docusaurus deployment to GitHub Pages. Content organization, navigation, and styling must align with Docusaurus requirements and best practices for web-based documentation.
+<!-- Rationale: Ensures consistent deployment and maintainable content management -->
 
-### [PRINCIPLE_6_NAME]
+### P6: Academic Rigor
+Minimum 50% of concepts/algorithms must be verified against peer-reviewed articles, industry standards, or primary documentation. All significant claims must be supported by verifiable sources, and all code examples must be syntax-checked and runnable where applicable.
+<!-- Rationale: Maintains the academic integrity and scholarly value of the textbook -->
 
+## Content Standards & Constraints
 
-[PRINCIPLE__DESCRIPTION]
+**Platform**: Must be built and managed using Docusaurus.
+**Content Scope**: Minimum of 5-7 core modules/chapters covering essential Physical AI & Humanoid Robotics topics.
+**Word Count**: Target 15,000–25,000 words total for the initial draft.
+**Writing Style**: Professional, academic tone suitable for a textbook with clear, well-structured content.
+**Code Standards**: All conceptual code examples must be provided, syntax-checked, and runnable (where applicable) using Python/ROS preferred technologies.
 
-## [SECTION_2_NAME]
-<!-- Example: Additional Constraints, Security Requirements, Performance Standards, etc. -->
+## Development Workflow
 
-[SECTION_2_CONTENT]
-<!-- Example: Technology stack requirements, compliance standards, deployment policies, etc. -->
-
-## [SECTION_3_NAME]
-<!-- Example: Development Workflow, Review Process, Quality Gates, etc. -->
-
-[SECTION_3_CONTENT]
-<!-- Example: Code review requirements, testing gates, deployment approval process, etc. -->
+**Development Tool**: Primary content generation driven by Spec-Kit Plus and Claude Code.
+**Review Process**: All technical concepts must be fact-checked and verified for accuracy before merging.
+**Quality Gates**: All content must pass Docusaurus Markdown and configuration checks before deployment.
+**Target Audience**: Undergraduate/Graduate students in Computer Science and Engineering with foundational understanding of AI/Robotics principles.
 
 ## Governance
-<!-- Example: Constitution supersedes all other practices; Amendments require documentation, approval, migration plan -->
 
-[GOVERNANCE_RULES]
-<!-- Example: All PRs/reviews must verify compliance; Complexity must be justified; Use [GUIDANCE_FILE] for runtime development guidance -->
+This constitution supersedes all other development practices for this project. All changes to the textbook content must comply with these principles. Amendments to this constitution require documentation of the change, approval from project maintainers, and a migration plan for existing content if needed. All PRs and reviews must verify compliance with these principles before approval.
 
-**Version**: [CONSTITUTION_VERSION] | **Ratified**: [RATIFICATION_DATE] | **Last Amended**: [LAST_AMENDED_DATE]
-<!-- Example: Version: 2.1.1 | Ratified: 2025-06-13 | Last Amended: 2025-07-16 -->
+**Version**: 1.1.0 | **Ratified**: 2025-12-10 | **Last Amended**: 2025-12-10

@@ -1,0 +1,24 @@
+{
+  "id": "module-3-perception-sensing/tactile-sensing",
+  "title": "Tactile Sensing and Haptic Feedback",
+  "description": "Introduction: The Sense of Touch in Humanoid Robotics",
+  "source": "@site/docs/module-3-perception-sensing/tactile-sensing.md",
+  "sourceDirName": "module-3-perception-sensing",
+  "slug": "/module-3-perception-sensing/tactile-sensing",
+  "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/tactile-sensing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-3-perception-sensing/tactile-sensing.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Computer Vision for Humanoid Robots",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/computer-vision"
+  },
+  "next": {
+    "title": "Inertial and Proprioceptive Sensing",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/inertial-sensing"
+  }
+}

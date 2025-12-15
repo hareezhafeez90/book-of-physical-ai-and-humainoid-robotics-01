@@ -1,0 +1,28 @@
+{
+  "id": "module-1-ros2/urdf-structure",
+  "title": "Understanding URDF: The Skeleton of the Robotic Nervous System",
+  "description": "Learning Objectives",
+  "source": "@site/docs/module-1-ros2/urdf-structure.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/urdf-structure",
+  "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/urdf-structure",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-1-ros2/urdf-structure.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_label": "Understanding URDF",
+    "sidebar_position": 6
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Services and Actions",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/services-actions"
+  },
+  "next": {
+    "title": "The rclpy Bridge",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/rclpy-bridge"
+  }
+}

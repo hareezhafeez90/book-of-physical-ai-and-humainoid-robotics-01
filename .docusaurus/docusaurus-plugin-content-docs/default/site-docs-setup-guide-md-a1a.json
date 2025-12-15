@@ -1,0 +1,28 @@
+{
+  "id": "setup-guide",
+  "title": "ROS 2 Setup Guide: Getting Started with Your Robotic Nervous System",
+  "description": "Overview",
+  "source": "@site/docs/setup-guide.md",
+  "sourceDirName": ".",
+  "slug": "/setup-guide",
+  "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/setup-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/setup-guide.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_label": "ROS 2 Setup Guide",
+    "sidebar_position": 8
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Energy Efficiency in Humanoid Locomotion",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/energy-efficiency"
+  },
+  "next": {
+    "title": "Additional Resources",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/appendix-resources"
+  }
+}

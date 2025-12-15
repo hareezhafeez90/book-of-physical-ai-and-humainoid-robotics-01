@@ -1,0 +1,128 @@
+# API Contract: Physical AI Textbook Interactive Features
+# This contract defines potential interactive endpoints for the textbook
+
+openapi: 3.0.0
+info:
+  title: Physical AI Textbook API
+  version: 1.0.0
+  description: API for interactive features in the Physical AI & Humanoid Robotics textbook
+
+paths:
+  /modules/ros2/code-examples/{exampleId}/run:
+    post:
+      summary: Run a code example in a sandboxed environment
+      description: Allows students to run ROS 2 code examples in a safe environment
+      parameters:
+        - name: exampleId
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Unique identifier for the code example
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                code:
+                  type: string
+                  description: The Python code to execute
+                timeout:
+                  type: integer
+                  description: Maximum execution time in seconds
+                  default: 30
+      responses:
+        '200':
+          description: Code executed successfully
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  output:
+                    type: string
+                    description: Standard output from the execution
+                  errors:
+                    type: string
+                    description: Standard error output if any
+                  status:
+                    type: string
+                    enum: [success, error, timeout]
+        '400':
+          description: Invalid request or code
+        '404':
+          description: Code example not found
+
+  /modules/ros2/code-examples/{exampleId}/validate:
+    post:
+      summary: Validate code syntax
+      description: Validates the syntax of ROS 2 Python code
+      parameters:
+        - name: exampleId
+          in: path
+          required: true
+          schema:
+            type: string
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                code:
+                  type: string
+                  description: The Python code to validate
+      responses:
+        '200':
+          description: Code validation result
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  valid:
+                    type: boolean
+                  errors:
+                    type: array
+                    items:
+                      type: string
+        '400':
+          description: Invalid request
+
+  /modules/ros2/progress/{userId}/{moduleId}:
+    get:
+      summary: Get user progress for a module
+      description: Retrieves the student's progress through the ROS 2 module
+      parameters:
+        - name: userId
+          in: path
+          required: true
+          schema:
+            type: string
+        - name: moduleId
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: User progress information
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  completedSections:
+                    type: array
+                    items:
+                      type: string
+                  completedExercises:
+                    type: array
+                    items:
+                      type: string
+                  overallProgress:
+                    type: number
+                    format: float

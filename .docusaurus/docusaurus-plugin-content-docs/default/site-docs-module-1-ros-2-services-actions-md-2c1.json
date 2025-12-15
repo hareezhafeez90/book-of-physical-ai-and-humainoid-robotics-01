@@ -1,0 +1,28 @@
+{
+  "id": "module-1-ros2/services-actions",
+  "title": "Services and Actions: The Reflexes and Complex Tasks of the Robotic Nervous System",
+  "description": "Learning Objectives",
+  "source": "@site/docs/module-1-ros2/services-actions.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/services-actions",
+  "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/services-actions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-1-ros2/services-actions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "Services and Actions",
+    "sidebar_position": 5
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Nodes and Topics",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/nodes-topics"
+  },
+  "next": {
+    "title": "Understanding URDF",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/urdf-structure"
+  }
+}

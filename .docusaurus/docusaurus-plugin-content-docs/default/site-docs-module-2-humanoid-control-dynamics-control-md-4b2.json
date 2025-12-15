@@ -1,0 +1,24 @@
+{
+  "id": "module-2-humanoid-control/dynamics-control",
+  "title": "Dynamics and Control: Motion Planning for Humanoid Systems",
+  "description": "Introduction: From Kinematics to Dynamics",
+  "source": "@site/docs/module-2-humanoid-control/dynamics-control.md",
+  "sourceDirName": "module-2-humanoid-control",
+  "slug": "/module-2-humanoid-control/dynamics-control",
+  "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/dynamics-control",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-2-humanoid-control/dynamics-control.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Humanoid Kinematics: Forward and Inverse Kinematics",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/kinematics"
+  },
+  "next": {
+    "title": "Balance and Stability: Maintaining Upright Posture",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/balance-stability"
+  }
+}

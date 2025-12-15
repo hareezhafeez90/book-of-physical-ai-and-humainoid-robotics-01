@@ -1,0 +1,1021 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs",
+          "tagsPath": "/book-of-physical-ai-and-humainoid-robotics-01/docs/tags",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "D:\\hack\\book-of-physical-ai-and-humainoid-robotics-01\\sidebars.js",
+          "contentPath": "D:\\hack\\book-of-physical-ai-and-humainoid-robotics-01\\docs",
+          "contentPathLocalized": "D:\\hack\\book-of-physical-ai-and-humainoid-robotics-01\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "id": "appendix-resources",
+              "title": "Appendix: Additional Resources and References",
+              "description": "Official ROS 2 Documentation",
+              "source": "@site/docs/appendix-resources.md",
+              "sourceDirName": ".",
+              "slug": "/appendix-resources",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/appendix-resources",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/appendix-resources.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_label": "Additional Resources",
+                "sidebar_position": 10
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "ROS 2 Setup Guide",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/setup-guide"
+              }
+            },
+            {
+              "id": "index",
+              "title": "Physical AI & Humanoid Robotics Textbook",
+              "description": "Welcome to the Physical AI & Humanoid Robotics textbook, an open-source educational resource designed to provide comprehensive coverage of physical AI systems and humanoid robotics.",
+              "source": "@site/docs/index.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Physical AI & Humanoid Robotics Textbook"
+              }
+            },
+            {
+              "id": "intro",
+              "title": "Introduction to Physical AI & Humanoid Robotics",
+              "description": "Welcome to the Physical AI & Humanoid Robotics textbook. This open-source textbook is designed to provide a comprehensive introduction to the concepts, technologies, and practices involved in creating physical AI systems and humanoid robots.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "textbookSidebar",
+              "next": {
+                "title": "Module 1: The Robotic Nervous System (ROS 2)",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/"
+              }
+            },
+            {
+              "id": "module-1-ros2/index",
+              "title": "Module 1: The Robotic Nervous System (ROS 2)",
+              "description": "Overview",
+              "source": "@site/docs/module-1-ros2/index.md",
+              "sourceDirName": "module-1-ros2",
+              "slug": "/module-1-ros2/",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-1-ros2/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_label": "Module 1: The Robotic Nervous System (ROS 2)",
+                "sidebar_position": 2
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Introduction to Physical AI & Humanoid Robotics",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/intro"
+              },
+              "next": {
+                "title": "ROS 2 Architecture",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/ros2-architecture"
+              }
+            },
+            {
+              "id": "module-1-ros2/nodes-topics",
+              "title": "Nodes and Topics: The Brain Cells and Nerves of the Robotic Nervous System",
+              "description": "Learning Objectives",
+              "source": "@site/docs/module-1-ros2/nodes-topics.md",
+              "sourceDirName": "module-1-ros2",
+              "slug": "/module-1-ros2/nodes-topics",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/nodes-topics",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-1-ros2/nodes-topics.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_label": "Nodes and Topics",
+                "sidebar_position": 4
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "ROS 2 Architecture",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/ros2-architecture"
+              },
+              "next": {
+                "title": "Services and Actions",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/services-actions"
+              }
+            },
+            {
+              "id": "module-1-ros2/practical-examples",
+              "title": "Practical Examples: Hands-On Exercises for the Robotic Nervous System",
+              "description": "Learning Objectives",
+              "source": "@site/docs/module-1-ros2/practical-examples.md",
+              "sourceDirName": "module-1-ros2",
+              "slug": "/module-1-ros2/practical-examples",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/practical-examples",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-1-ros2/practical-examples.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_label": "Practical Examples",
+                "sidebar_position": 9
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "The rclpy Bridge",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/rclpy-bridge"
+              },
+              "next": {
+                "title": "Module 2: Physical AI and Humanoid Control Systems",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/"
+              }
+            },
+            {
+              "id": "module-1-ros2/rclpy-bridge",
+              "title": "The rclpy Bridge: Connecting High-Level AI to Low-Level Hardware",
+              "description": "Learning Objectives",
+              "source": "@site/docs/module-1-ros2/rclpy-bridge.md",
+              "sourceDirName": "module-1-ros2",
+              "slug": "/module-1-ros2/rclpy-bridge",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/rclpy-bridge",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-1-ros2/rclpy-bridge.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_label": "The rclpy Bridge",
+                "sidebar_position": 7
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Understanding URDF",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/urdf-structure"
+              },
+              "next": {
+                "title": "Practical Examples",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/practical-examples"
+              }
+            },
+            {
+              "id": "module-1-ros2/ros2-architecture",
+              "title": "ROS 2 Architecture: The Foundation of the Robotic Nervous System",
+              "description": "Learning Objectives",
+              "source": "@site/docs/module-1-ros2/ros2-architecture.md",
+              "sourceDirName": "module-1-ros2",
+              "slug": "/module-1-ros2/ros2-architecture",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/ros2-architecture",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-1-ros2/ros2-architecture.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_label": "ROS 2 Architecture",
+                "sidebar_position": 3
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Module 1: The Robotic Nervous System (ROS 2)",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/"
+              },
+              "next": {
+                "title": "Nodes and Topics",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/nodes-topics"
+              }
+            },
+            {
+              "id": "module-1-ros2/services-actions",
+              "title": "Services and Actions: The Reflexes and Complex Tasks of the Robotic Nervous System",
+              "description": "Learning Objectives",
+              "source": "@site/docs/module-1-ros2/services-actions.md",
+              "sourceDirName": "module-1-ros2",
+              "slug": "/module-1-ros2/services-actions",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/services-actions",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-1-ros2/services-actions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_label": "Services and Actions",
+                "sidebar_position": 5
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Nodes and Topics",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/nodes-topics"
+              },
+              "next": {
+                "title": "Understanding URDF",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/urdf-structure"
+              }
+            },
+            {
+              "id": "module-1-ros2/urdf-structure",
+              "title": "Understanding URDF: The Skeleton of the Robotic Nervous System",
+              "description": "Learning Objectives",
+              "source": "@site/docs/module-1-ros2/urdf-structure.md",
+              "sourceDirName": "module-1-ros2",
+              "slug": "/module-1-ros2/urdf-structure",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/urdf-structure",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-1-ros2/urdf-structure.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_label": "Understanding URDF",
+                "sidebar_position": 6
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Services and Actions",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/services-actions"
+              },
+              "next": {
+                "title": "The rclpy Bridge",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/rclpy-bridge"
+              }
+            },
+            {
+              "id": "module-2-humanoid-control/balance-stability",
+              "title": "Balance and Stability: Maintaining Upright Posture",
+              "description": "Introduction: The Challenge of Bipedal Balance",
+              "source": "@site/docs/module-2-humanoid-control/balance-stability.md",
+              "sourceDirName": "module-2-humanoid-control",
+              "slug": "/module-2-humanoid-control/balance-stability",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/balance-stability",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-2-humanoid-control/balance-stability.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Dynamics and Control: Motion Planning for Humanoid Systems",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/dynamics-control"
+              },
+              "next": {
+                "title": "Motor Control Systems: From High-Level Commands to Actuator Commands",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/motor-control"
+              }
+            },
+            {
+              "id": "module-2-humanoid-control/dynamics-control",
+              "title": "Dynamics and Control: Motion Planning for Humanoid Systems",
+              "description": "Introduction: From Kinematics to Dynamics",
+              "source": "@site/docs/module-2-humanoid-control/dynamics-control.md",
+              "sourceDirName": "module-2-humanoid-control",
+              "slug": "/module-2-humanoid-control/dynamics-control",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/dynamics-control",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-2-humanoid-control/dynamics-control.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Humanoid Kinematics: Forward and Inverse Kinematics",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/kinematics"
+              },
+              "next": {
+                "title": "Balance and Stability: Maintaining Upright Posture",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/balance-stability"
+              }
+            },
+            {
+              "id": "module-2-humanoid-control/index",
+              "title": "Module 2: Physical AI and Humanoid Control Systems",
+              "description": "Introduction: From Digital Intelligence to Embodied Cognition",
+              "source": "@site/docs/module-2-humanoid-control/index.md",
+              "sourceDirName": "module-2-humanoid-control",
+              "slug": "/module-2-humanoid-control/",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-2-humanoid-control/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Practical Examples",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/practical-examples"
+              },
+              "next": {
+                "title": "Physical AI: The Foundation of Embodied Intelligence",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/physical-ai-foundations"
+              }
+            },
+            {
+              "id": "module-2-humanoid-control/kinematics",
+              "title": "Humanoid Kinematics: Forward and Inverse Kinematics",
+              "description": "Introduction: The Geometry of Movement",
+              "source": "@site/docs/module-2-humanoid-control/kinematics.md",
+              "sourceDirName": "module-2-humanoid-control",
+              "slug": "/module-2-humanoid-control/kinematics",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/kinematics",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-2-humanoid-control/kinematics.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Physical AI: The Foundation of Embodied Intelligence",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/physical-ai-foundations"
+              },
+              "next": {
+                "title": "Dynamics and Control: Motion Planning for Humanoid Systems",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/dynamics-control"
+              }
+            },
+            {
+              "id": "module-2-humanoid-control/motor-control",
+              "title": "Motor Control Systems: From High-Level Commands to Actuator Commands",
+              "description": "Introduction: The Robotic Muscular System",
+              "source": "@site/docs/module-2-humanoid-control/motor-control.md",
+              "sourceDirName": "module-2-humanoid-control",
+              "slug": "/module-2-humanoid-control/motor-control",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/motor-control",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-2-humanoid-control/motor-control.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Balance and Stability: Maintaining Upright Posture",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/balance-stability"
+              },
+              "next": {
+                "title": "Practical Examples and Exercises: Humanoid Control Implementation",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/practical-examples"
+              }
+            },
+            {
+              "id": "module-2-humanoid-control/physical-ai-foundations",
+              "title": "Physical AI: The Foundation of Embodied Intelligence",
+              "description": "Introduction: The Embodied Cognition Revolution",
+              "source": "@site/docs/module-2-humanoid-control/physical-ai-foundations.md",
+              "sourceDirName": "module-2-humanoid-control",
+              "slug": "/module-2-humanoid-control/physical-ai-foundations",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/physical-ai-foundations",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-2-humanoid-control/physical-ai-foundations.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Module 2: Physical AI and Humanoid Control Systems",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/"
+              },
+              "next": {
+                "title": "Humanoid Kinematics: Forward and Inverse Kinematics",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/kinematics"
+              }
+            },
+            {
+              "id": "module-2-humanoid-control/practical-examples",
+              "title": "Practical Examples and Exercises: Humanoid Control Implementation",
+              "description": "Introduction: From Theory to Practice",
+              "source": "@site/docs/module-2-humanoid-control/practical-examples.md",
+              "sourceDirName": "module-2-humanoid-control",
+              "slug": "/module-2-humanoid-control/practical-examples",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/practical-examples",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-2-humanoid-control/practical-examples.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Motor Control Systems: From High-Level Commands to Actuator Commands",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/motor-control"
+              },
+              "next": {
+                "title": "Module 3: Perception and Sensing Systems",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/"
+              }
+            },
+            {
+              "id": "module-3-perception-sensing/computer-vision",
+              "title": "Computer Vision for Humanoid Robots",
+              "description": "Introduction: Visual Perception in Physical AI",
+              "source": "@site/docs/module-3-perception-sensing/computer-vision.md",
+              "sourceDirName": "module-3-perception-sensing",
+              "slug": "/module-3-perception-sensing/computer-vision",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/computer-vision",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-3-perception-sensing/computer-vision.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Sensory Modalities in Humanoid Robotics",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/sensory-modalities"
+              },
+              "next": {
+                "title": "Tactile Sensing and Haptic Feedback",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/tactile-sensing"
+              }
+            },
+            {
+              "id": "module-3-perception-sensing/environmental-perception",
+              "title": "Environmental Perception and Mapping",
+              "description": "Introduction: Understanding the Surroundings",
+              "source": "@site/docs/module-3-perception-sensing/environmental-perception.md",
+              "sourceDirName": "module-3-perception-sensing",
+              "slug": "/module-3-perception-sensing/environmental-perception",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/environmental-perception",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-3-perception-sensing/environmental-perception.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Sensor Fusion and State Estimation",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/sensor-fusion"
+              },
+              "next": {
+                "title": "Practical Examples and Exercises: Environmental Perception Implementation",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/practical-examples"
+              }
+            },
+            {
+              "id": "module-3-perception-sensing/index",
+              "title": "Module 3: Perception and Sensing Systems",
+              "description": "Introduction: The Robotic Senses",
+              "source": "@site/docs/module-3-perception-sensing/index.md",
+              "sourceDirName": "module-3-perception-sensing",
+              "slug": "/module-3-perception-sensing/",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-3-perception-sensing/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Practical Examples and Exercises: Humanoid Control Implementation",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/practical-examples"
+              },
+              "next": {
+                "title": "Sensory Modalities in Humanoid Robotics",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/sensory-modalities"
+              }
+            },
+            {
+              "id": "module-3-perception-sensing/inertial-sensing",
+              "title": "Inertial and Proprioceptive Sensing",
+              "description": "Introduction: Understanding Self-Motion and Internal State",
+              "source": "@site/docs/module-3-perception-sensing/inertial-sensing.md",
+              "sourceDirName": "module-3-perception-sensing",
+              "slug": "/module-3-perception-sensing/inertial-sensing",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/inertial-sensing",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-3-perception-sensing/inertial-sensing.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Tactile Sensing and Haptic Feedback",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/tactile-sensing"
+              },
+              "next": {
+                "title": "Sensor Fusion and State Estimation",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/sensor-fusion"
+              }
+            },
+            {
+              "id": "module-3-perception-sensing/practical-examples",
+              "title": "Practical Examples and Exercises: Environmental Perception Implementation",
+              "description": "Introduction: From Theory to Practice",
+              "source": "@site/docs/module-3-perception-sensing/practical-examples.md",
+              "sourceDirName": "module-3-perception-sensing",
+              "slug": "/module-3-perception-sensing/practical-examples",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/practical-examples",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-3-perception-sensing/practical-examples.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Environmental Perception and Mapping",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/environmental-perception"
+              },
+              "next": {
+                "title": "Module 4: Locomotion and Mobility",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/"
+              }
+            },
+            {
+              "id": "module-3-perception-sensing/sensor-fusion",
+              "title": "Sensor Fusion and State Estimation",
+              "description": "Introduction: Combining Multiple Sensory Inputs",
+              "source": "@site/docs/module-3-perception-sensing/sensor-fusion.md",
+              "sourceDirName": "module-3-perception-sensing",
+              "slug": "/module-3-perception-sensing/sensor-fusion",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/sensor-fusion",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-3-perception-sensing/sensor-fusion.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Inertial and Proprioceptive Sensing",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/inertial-sensing"
+              },
+              "next": {
+                "title": "Environmental Perception and Mapping",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/environmental-perception"
+              }
+            },
+            {
+              "id": "module-3-perception-sensing/sensory-modalities",
+              "title": "Sensory Modalities in Humanoid Robotics",
+              "description": "Introduction: The Need for Multiple Senses",
+              "source": "@site/docs/module-3-perception-sensing/sensory-modalities.md",
+              "sourceDirName": "module-3-perception-sensing",
+              "slug": "/module-3-perception-sensing/sensory-modalities",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/sensory-modalities",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-3-perception-sensing/sensory-modalities.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Module 3: Perception and Sensing Systems",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/"
+              },
+              "next": {
+                "title": "Computer Vision for Humanoid Robots",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/computer-vision"
+              }
+            },
+            {
+              "id": "module-3-perception-sensing/tactile-sensing",
+              "title": "Tactile Sensing and Haptic Feedback",
+              "description": "Introduction: The Sense of Touch in Humanoid Robotics",
+              "source": "@site/docs/module-3-perception-sensing/tactile-sensing.md",
+              "sourceDirName": "module-3-perception-sensing",
+              "slug": "/module-3-perception-sensing/tactile-sensing",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/tactile-sensing",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-3-perception-sensing/tactile-sensing.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Computer Vision for Humanoid Robots",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/computer-vision"
+              },
+              "next": {
+                "title": "Inertial and Proprioceptive Sensing",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/inertial-sensing"
+              }
+            },
+            {
+              "id": "module-4-locomotion-mobility/biomechanics",
+              "title": "Biomechanics of Humanoid Locomotion",
+              "description": "Introduction: Understanding Human Movement",
+              "source": "@site/docs/module-4-locomotion-mobility/biomechanics.md",
+              "sourceDirName": "module-4-locomotion-mobility",
+              "slug": "/module-4-locomotion-mobility/biomechanics",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/biomechanics",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-4-locomotion-mobility/biomechanics.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Module 4: Locomotion and Mobility",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/"
+              },
+              "next": {
+                "title": "Dynamic Walking and Balance Control",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/dynamic-walking"
+              }
+            },
+            {
+              "id": "module-4-locomotion-mobility/complex-terrain",
+              "title": "Stair Climbing and Complex Terrain Navigation",
+              "description": "Introduction: Beyond Flat Ground Locomotion",
+              "source": "@site/docs/module-4-locomotion-mobility/complex-terrain.md",
+              "sourceDirName": "module-4-locomotion-mobility",
+              "slug": "/module-4-locomotion-mobility/complex-terrain",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/complex-terrain",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-4-locomotion-mobility/complex-terrain.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Terrain Adaptation and Footstep Planning",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/terrain-adaptation"
+              },
+              "next": {
+                "title": "Energy Efficiency in Humanoid Locomotion",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/energy-efficiency"
+              }
+            },
+            {
+              "id": "module-4-locomotion-mobility/dynamic-walking",
+              "title": "Dynamic Walking and Balance Control",
+              "description": "Introduction: From Static to Dynamic Locomotion",
+              "source": "@site/docs/module-4-locomotion-mobility/dynamic-walking.md",
+              "sourceDirName": "module-4-locomotion-mobility",
+              "slug": "/module-4-locomotion-mobility/dynamic-walking",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/dynamic-walking",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-4-locomotion-mobility/dynamic-walking.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Biomechanics of Humanoid Locomotion",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/biomechanics"
+              },
+              "next": {
+                "title": "Gait Generation and Pattern Formation",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/gait-generation"
+              }
+            },
+            {
+              "id": "module-4-locomotion-mobility/energy-efficiency",
+              "title": "Energy Efficiency in Humanoid Locomotion",
+              "description": "Energy efficiency is a critical factor in humanoid robotics, directly impacting operational duration, sustainability, and practical deployment capabilities. Unlike wheeled or tracked robots, bipedal locomotion inherently requires complex dynamic balancing and multi-joint coordination, making energy optimization a challenging yet essential aspect of humanoid design.",
+              "source": "@site/docs/module-4-locomotion-mobility/energy-efficiency.md",
+              "sourceDirName": "module-4-locomotion-mobility",
+              "slug": "/module-4-locomotion-mobility/energy-efficiency",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/energy-efficiency",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-4-locomotion-mobility/energy-efficiency.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Stair Climbing and Complex Terrain Navigation",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/complex-terrain"
+              },
+              "next": {
+                "title": "ROS 2 Setup Guide",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/setup-guide"
+              }
+            },
+            {
+              "id": "module-4-locomotion-mobility/gait-generation",
+              "title": "Gait Generation and Pattern Formation",
+              "description": "Introduction: Creating Natural Walking Patterns",
+              "source": "@site/docs/module-4-locomotion-mobility/gait-generation.md",
+              "sourceDirName": "module-4-locomotion-mobility",
+              "slug": "/module-4-locomotion-mobility/gait-generation",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/gait-generation",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-4-locomotion-mobility/gait-generation.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Dynamic Walking and Balance Control",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/dynamic-walking"
+              },
+              "next": {
+                "title": "Terrain Adaptation and Footstep Planning",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/terrain-adaptation"
+              }
+            },
+            {
+              "id": "module-4-locomotion-mobility/index",
+              "title": "Module 4: Locomotion and Mobility",
+              "description": "Introduction: The Art of Humanoid Movement",
+              "source": "@site/docs/module-4-locomotion-mobility/index.md",
+              "sourceDirName": "module-4-locomotion-mobility",
+              "slug": "/module-4-locomotion-mobility/",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-4-locomotion-mobility/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Practical Examples and Exercises: Environmental Perception Implementation",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/practical-examples"
+              },
+              "next": {
+                "title": "Biomechanics of Humanoid Locomotion",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/biomechanics"
+              }
+            },
+            {
+              "id": "module-4-locomotion-mobility/terrain-adaptation",
+              "title": "Terrain Adaptation and Footstep Planning",
+              "description": "Introduction: Navigating Complex Environments",
+              "source": "@site/docs/module-4-locomotion-mobility/terrain-adaptation.md",
+              "sourceDirName": "module-4-locomotion-mobility",
+              "slug": "/module-4-locomotion-mobility/terrain-adaptation",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/terrain-adaptation",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-4-locomotion-mobility/terrain-adaptation.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Gait Generation and Pattern Formation",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/gait-generation"
+              },
+              "next": {
+                "title": "Stair Climbing and Complex Terrain Navigation",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/complex-terrain"
+              }
+            },
+            {
+              "id": "setup-guide",
+              "title": "ROS 2 Setup Guide: Getting Started with Your Robotic Nervous System",
+              "description": "Overview",
+              "source": "@site/docs/setup-guide.md",
+              "sourceDirName": ".",
+              "slug": "/setup-guide",
+              "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/setup-guide",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/setup-guide.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_label": "ROS 2 Setup Guide",
+                "sidebar_position": 8
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Energy Efficiency in Humanoid Locomotion",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/energy-efficiency"
+              },
+              "next": {
+                "title": "Additional Resources",
+                "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/appendix-resources"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "textbookSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Module 1: The Robotic Nervous System (ROS 2)",
+                "link": {
+                  "type": "doc",
+                  "id": "module-1-ros2/index"
+                },
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "module-1-ros2/ros2-architecture"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-1-ros2/nodes-topics"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-1-ros2/services-actions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-1-ros2/urdf-structure"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-1-ros2/rclpy-bridge"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-1-ros2/practical-examples"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Module 2: Physical AI and Humanoid Control",
+                "link": {
+                  "type": "doc",
+                  "id": "module-2-humanoid-control/index"
+                },
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "module-2-humanoid-control/physical-ai-foundations"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-2-humanoid-control/kinematics"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-2-humanoid-control/dynamics-control"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-2-humanoid-control/balance-stability"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-2-humanoid-control/motor-control"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-2-humanoid-control/practical-examples"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Module 3: Perception and Sensing Systems",
+                "link": {
+                  "type": "doc",
+                  "id": "module-3-perception-sensing/index"
+                },
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "module-3-perception-sensing/sensory-modalities"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-3-perception-sensing/computer-vision"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-3-perception-sensing/tactile-sensing"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-3-perception-sensing/inertial-sensing"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-3-perception-sensing/sensor-fusion"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-3-perception-sensing/environmental-perception"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-3-perception-sensing/practical-examples"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Module 4: Locomotion and Mobility",
+                "link": {
+                  "type": "doc",
+                  "id": "module-4-locomotion-mobility/index"
+                },
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "module-4-locomotion-mobility/biomechanics"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-4-locomotion-mobility/dynamic-walking"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-4-locomotion-mobility/gait-generation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-4-locomotion-mobility/terrain-adaptation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-4-locomotion-mobility/complex-terrain"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-4-locomotion-mobility/energy-efficiency"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "doc",
+                "id": "setup-guide"
+              },
+              {
+                "type": "doc",
+                "id": "appendix-resources"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

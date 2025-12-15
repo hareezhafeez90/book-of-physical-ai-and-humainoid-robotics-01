@@ -9,7 +9,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-github-username.github.io', // Replace with your GitHub username
+  url: 'https://hareezhafeez90.github.io', // Your GitHub username
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub Pages user pages (username.github.io), use '/'
   // For project pages (username.github.io/project-name), use '/project-name/'
@@ -19,8 +19,8 @@ const config = {
   trailingSlash: 'always',
 
   // GitHub pages deployment config.
-  organizationName: 'your-github-username', // Replace with your GitHub username
-  projectName: 'book-of-physical-ai-and-humainoid-robotics-01', // Update with your repository name if different
+  organizationName: 'hareezhafeez90', // Your GitHub username
+  projectName: 'book-of-physical-ai-and-humainoid-robotics-01', // Your repository name
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -72,7 +72,7 @@ const config = {
             label: 'Textbook',
           },
           {
-            href: 'https://github.com/your-username/your-repo', // TODO: Update with actual repo
+            href: 'https://github.com/hareezhafeez90/book-of-physical-ai-and-humainoid-robotics-01', // Your actual repo
             label: 'GitHub',
             position: 'right',
           },

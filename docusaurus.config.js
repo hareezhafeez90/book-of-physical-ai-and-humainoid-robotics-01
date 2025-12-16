@@ -16,7 +16,7 @@ const config = {
   baseUrl: '/book-of-physical-ai-and-humainoid-robotics-01/', // Project name for GitHub Pages
 
   // GitHub Pages deployment requires trailing slash to be explicitly set
-  trailingSlash: 'always',
+  trailingSlash: false,
 
   // GitHub pages deployment config.
   organizationName: 'hareezhafeez90', // Your GitHub username

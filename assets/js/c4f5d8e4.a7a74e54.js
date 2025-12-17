@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkphysical_ai_textbook=globalThis.webpackChunkphysical_ai_textbook||[]).push([[634],{192:(t,o,s)=>{s.r(o),s.d(o,{default:()=>e});s(6540);var a=s(6347),i=s(4586),c=s(4848);const e=function(){const{siteConfig:t}=(0,i.A)();return(0,c.jsx)(a.rd,{to:`${t.baseUrl}docs/intro`})}}}]);

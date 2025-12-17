@@ -1,0 +1,192 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "appendix-resources",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/appendix-resources",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/"
+            },
+            {
+              "id": "intro",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/intro",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-1-ros2/index",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-1-ros2/nodes-topics",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/nodes-topics",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-1-ros2/practical-examples",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/practical-examples",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-1-ros2/rclpy-bridge",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/rclpy-bridge",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-1-ros2/ros2-architecture",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/ros2-architecture",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-1-ros2/services-actions",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/services-actions",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-1-ros2/urdf-structure",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/urdf-structure",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-2-humanoid-control/balance-stability",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/balance-stability",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-2-humanoid-control/dynamics-control",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/dynamics-control",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-2-humanoid-control/index",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-2-humanoid-control/kinematics",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/kinematics",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-2-humanoid-control/motor-control",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/motor-control",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-2-humanoid-control/physical-ai-foundations",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/physical-ai-foundations",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-2-humanoid-control/practical-examples",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/practical-examples",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-3-perception-sensing/computer-vision",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/computer-vision",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-3-perception-sensing/environmental-perception",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/environmental-perception",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-3-perception-sensing/index",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-3-perception-sensing/inertial-sensing",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/inertial-sensing",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-3-perception-sensing/practical-examples",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/practical-examples",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-3-perception-sensing/sensor-fusion",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/sensor-fusion",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-3-perception-sensing/sensory-modalities",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/sensory-modalities",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-3-perception-sensing/tactile-sensing",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/tactile-sensing",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-4-locomotion-mobility/biomechanics",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/biomechanics",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-4-locomotion-mobility/complex-terrain",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/complex-terrain",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-4-locomotion-mobility/dynamic-walking",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/dynamic-walking",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-4-locomotion-mobility/energy-efficiency",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/energy-efficiency",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-4-locomotion-mobility/gait-generation",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/gait-generation",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-4-locomotion-mobility/index",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "module-4-locomotion-mobility/terrain-adaptation",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/terrain-adaptation",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "setup-guide",
+              "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/setup-guide",
+              "sidebar": "textbookSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "textbookSidebar": {
+              "link": {
+                "path": "/book-of-physical-ai-and-humainoid-robotics-01/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

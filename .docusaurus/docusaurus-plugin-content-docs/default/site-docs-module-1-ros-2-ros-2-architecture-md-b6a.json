@@ -1,0 +1,28 @@
+{
+  "id": "module-1-ros2/ros2-architecture",
+  "title": "ROS 2 Architecture: The Foundation of the Robotic Nervous System",
+  "description": "Learning Objectives",
+  "source": "@site/docs/module-1-ros2/ros2-architecture.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/ros2-architecture",
+  "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/ros2-architecture",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-1-ros2/ros2-architecture.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "ROS 2 Architecture",
+    "sidebar_position": 3
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Module 1: The Robotic Nervous System (ROS 2)",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/"
+  },
+  "next": {
+    "title": "Nodes and Topics",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/nodes-topics"
+  }
+}

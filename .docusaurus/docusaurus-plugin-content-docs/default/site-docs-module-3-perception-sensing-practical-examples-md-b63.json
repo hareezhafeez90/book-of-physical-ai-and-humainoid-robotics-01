@@ -1,0 +1,24 @@
+{
+  "id": "module-3-perception-sensing/practical-examples",
+  "title": "Practical Examples and Exercises: Environmental Perception Implementation",
+  "description": "Introduction: From Theory to Practice",
+  "source": "@site/docs/module-3-perception-sensing/practical-examples.md",
+  "sourceDirName": "module-3-perception-sensing",
+  "slug": "/module-3-perception-sensing/practical-examples",
+  "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/practical-examples",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-3-perception-sensing/practical-examples.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Environmental Perception and Mapping",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/environmental-perception"
+  },
+  "next": {
+    "title": "Module 4: Locomotion and Mobility",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "module-1-ros2/rclpy-bridge",
+  "title": "The rclpy Bridge: Connecting High-Level AI to Low-Level Hardware",
+  "description": "Learning Objectives",
+  "source": "@site/docs/module-1-ros2/rclpy-bridge.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/rclpy-bridge",
+  "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/rclpy-bridge",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-1-ros2/rclpy-bridge.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_label": "The rclpy Bridge",
+    "sidebar_position": 7
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Understanding URDF",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/urdf-structure"
+  },
+  "next": {
+    "title": "Practical Examples",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/practical-examples"
+  }
+}

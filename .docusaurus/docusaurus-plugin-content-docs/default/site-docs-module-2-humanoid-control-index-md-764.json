@@ -1,0 +1,24 @@
+{
+  "id": "module-2-humanoid-control/index",
+  "title": "Module 2: Physical AI and Humanoid Control Systems",
+  "description": "Introduction: From Digital Intelligence to Embodied Cognition",
+  "source": "@site/docs/module-2-humanoid-control/index.md",
+  "sourceDirName": "module-2-humanoid-control",
+  "slug": "/module-2-humanoid-control/",
+  "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-2-humanoid-control/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Practical Examples",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/practical-examples"
+  },
+  "next": {
+    "title": "Physical AI: The Foundation of Embodied Intelligence",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/physical-ai-foundations"
+  }
+}

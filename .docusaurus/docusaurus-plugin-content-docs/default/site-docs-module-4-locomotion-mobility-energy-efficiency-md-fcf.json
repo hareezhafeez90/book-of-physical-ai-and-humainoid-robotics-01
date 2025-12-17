@@ -1,0 +1,24 @@
+{
+  "id": "module-4-locomotion-mobility/energy-efficiency",
+  "title": "Energy Efficiency in Humanoid Locomotion",
+  "description": "Energy efficiency is a critical factor in humanoid robotics, directly impacting operational duration, sustainability, and practical deployment capabilities. Unlike wheeled or tracked robots, bipedal locomotion inherently requires complex dynamic balancing and multi-joint coordination, making energy optimization a challenging yet essential aspect of humanoid design.",
+  "source": "@site/docs/module-4-locomotion-mobility/energy-efficiency.md",
+  "sourceDirName": "module-4-locomotion-mobility",
+  "slug": "/module-4-locomotion-mobility/energy-efficiency",
+  "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/energy-efficiency",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-4-locomotion-mobility/energy-efficiency.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Stair Climbing and Complex Terrain Navigation",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-4-locomotion-mobility/complex-terrain"
+  },
+  "next": {
+    "title": "ROS 2 Setup Guide",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/setup-guide"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "module-3-perception-sensing/environmental-perception",
+  "title": "Environmental Perception and Mapping",
+  "description": "Introduction: Understanding the Surroundings",
+  "source": "@site/docs/module-3-perception-sensing/environmental-perception.md",
+  "sourceDirName": "module-3-perception-sensing",
+  "slug": "/module-3-perception-sensing/environmental-perception",
+  "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/environmental-perception",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-3-perception-sensing/environmental-perception.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Sensor Fusion and State Estimation",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/sensor-fusion"
+  },
+  "next": {
+    "title": "Practical Examples and Exercises: Environmental Perception Implementation",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/practical-examples"
+  }
+}

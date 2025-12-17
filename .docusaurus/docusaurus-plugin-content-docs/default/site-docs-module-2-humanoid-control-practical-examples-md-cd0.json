@@ -1,0 +1,24 @@
+{
+  "id": "module-2-humanoid-control/practical-examples",
+  "title": "Practical Examples and Exercises: Humanoid Control Implementation",
+  "description": "Introduction: From Theory to Practice",
+  "source": "@site/docs/module-2-humanoid-control/practical-examples.md",
+  "sourceDirName": "module-2-humanoid-control",
+  "slug": "/module-2-humanoid-control/practical-examples",
+  "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/practical-examples",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-2-humanoid-control/practical-examples.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Motor Control Systems: From High-Level Commands to Actuator Commands",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-2-humanoid-control/motor-control"
+  },
+  "next": {
+    "title": "Module 3: Perception and Sensing Systems",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-3-perception-sensing/"
+  }
+}

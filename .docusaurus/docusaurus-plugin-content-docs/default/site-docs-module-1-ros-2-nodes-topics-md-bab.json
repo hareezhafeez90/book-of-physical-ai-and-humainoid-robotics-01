@@ -1,0 +1,28 @@
+{
+  "id": "module-1-ros2/nodes-topics",
+  "title": "Nodes and Topics: The Brain Cells and Nerves of the Robotic Nervous System",
+  "description": "Learning Objectives",
+  "source": "@site/docs/module-1-ros2/nodes-topics.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/nodes-topics",
+  "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/nodes-topics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-1-ros2/nodes-topics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "Nodes and Topics",
+    "sidebar_position": 4
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "ROS 2 Architecture",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/ros2-architecture"
+  },
+  "next": {
+    "title": "Services and Actions",
+    "permalink": "/book-of-physical-ai-and-humainoid-robotics-01/docs/module-1-ros2/services-actions"
+  }
+}
